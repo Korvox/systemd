@@ -63,6 +63,11 @@ id-input:modalias:input:b0003v5543p0081*
  ID_INPUT_TABLET=1
  ID_INPUT_TABLET_PAD=1
 
+# XP-Pen Artist 15.6 Pro Pad
+id-input:modalias:input:b0003v28BDp090De0100-e0,1,4*
+  ID_INPUT_TABLET=1
+  ID_INPUT_TABLET_PAD=1
+
 # XP-PEN STAR 06
 id-input:modalias:input:b0003v28bdp0078*
  ID_INPUT_TABLET=1
